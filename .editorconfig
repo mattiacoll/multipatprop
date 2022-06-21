@@ -1,0 +1,8 @@
+[*]
+indent_style = space
+
+[*.{py,md}]
+tab_width = 4
+
+[*.yml]
+tab_width = 2
